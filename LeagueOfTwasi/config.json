@@ -1,0 +1,7 @@
+{
+        "datafetcher": {
+                "type":"MONGODB"
+        },
+        "summoners":["Saith1998"],
+        "apikey":"RGAPI"
+}

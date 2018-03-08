@@ -1,0 +1,19 @@
+name: Rank
+main: at.saith.twasi.rank.RankPlugin
+author: Saith
+description: Implements easy to use Variables for your League of Legends Summoner
+helpText: 
+version: 1.0
+
+
+messageHandler: true
+
+
+commands:
+  - rank
+  - elo
+  
+
+permissions:
+  - rank.use.placeholder
+  - rank.use.command
